@@ -9,7 +9,7 @@ services:
 ​
   web:
     container_name: web
-    image: sergeyrodin/yamdb:latest
+    image: pankistodor/yamdb:latest
     restart: always
     volumes:
       - static_value:/code/static/
