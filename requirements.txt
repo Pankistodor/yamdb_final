@@ -44,3 +44,4 @@ packaging~=20.4
 environ~=1.0
 pycparser~=2.20
 docker
+pandas
