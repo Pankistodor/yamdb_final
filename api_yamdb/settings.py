@@ -10,7 +10,7 @@ SECRET_KEY = 'hhz7l-ltdismtf@bzyz+rple7*s*w$jak%whj@(@u0eok^f9k4'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['web', 'localhost', '127.0.0.1', '84.201.180.93', 'pankistodor@gmail.com']
+ALLOWED_HOSTS = ['web', 'localhost', '127.0.0.1', '84.201.180.93', 'pankistodor.ru', ]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
